@@ -1,0 +1,8 @@
+Creating a web page using html and css
+
+learned about spacing, margin, button 
+inserting buttons
+inserting images
+
+
+url:https://github.com/POOJA-VA/netflix

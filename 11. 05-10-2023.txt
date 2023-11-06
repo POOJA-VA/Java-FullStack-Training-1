@@ -1,0 +1,7 @@
+After competing the e-commerce website task, we push the files to the github and uploaded.
+
+We have given a another task to create a cart page and add another functinality to it.
+
+Learned about how the Add to cart - & + functions works.
+
+The count of the product has been added to the cart has to been shown. in-between the - & + button.

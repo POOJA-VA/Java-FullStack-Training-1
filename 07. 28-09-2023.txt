@@ -1,0 +1,11 @@
+onload property : it is used to change or manipulate the page when it is loading.
+for example:  onload=fn() the function fn() will be called when the page is starts loading.
+we can use that function to manipulate or do something when the page is loading.
+
+QuerySelector : This is used to get element value like the document.getElementById, but using this we can get element by class name instead. 
+But it will have html collections and we have to access it by array.
+
+Started creating e-commerce website. 
+created : 1.in home page        
+          2.Sign-in page.
+          3.Sign-up page.

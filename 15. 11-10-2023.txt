@@ -1,0 +1,11 @@
+Learned about Angular
+
+> Create a component to-do.
+> Create a service to-do.
+> Add export class name in app.module.
+> Add bootStrap link in html.
+> Design the to-do component.html page.
+> In this we have to given the buttons they are:add,edit and delete.
+> While working on loop.The messages is shown in that we have to give theedit and delete buttons.
+> Write the function or methods in component.ts to activate the add button.
+> In the service side to-do, we create input strings array[], using get ToDoService it get the input from html.file.

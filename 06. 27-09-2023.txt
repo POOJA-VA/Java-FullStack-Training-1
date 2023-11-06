@@ -1,0 +1,6 @@
+Learned about basic JavaScript concepts 
+
+Created a Google login page using BootStrap 5
+
+Learned about how to do to do list and created a phone book.
+

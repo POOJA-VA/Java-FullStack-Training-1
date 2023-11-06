@@ -1,0 +1,9 @@
+Started doing exersises in tha basic JS Exercise.
+> like convert meter into centimeter.
+> EMI calculator
+> Strings in array
+> Word color converter 
+> Money divider 
+
+Ceated the UI for e-commerce website.
+Created the Admin Page and User Page.

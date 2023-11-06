@@ -1,0 +1,20 @@
+https://github.com/POOJA-VA/tr
+
+BASICS ABOUT COMPUTER:
+. CPU 
+. RAM is faster 
+. Disk(HDD , SSD) works slower.
+. Cache (It is temporary memory to but the access is faster).
+
+TCP: Transmission Control Protocal.
+It helps to communicate between the server and the client also it is slow process.
+
+UDP: User Datagram Protocal.
+UDP is less reliable but works more quickly.
+
+DNS: Domain Name System.
+It turns domain names into ip addresses, which browsers use to load internet pages.
+
+API: Application Programing Interface.
+It is furthur divided into 3 they are REST,Graphical,GRPC.
+Rest performs Get Put Post Delete

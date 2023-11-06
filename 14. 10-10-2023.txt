@@ -1,0 +1,5 @@
+Learned about TypeScript.
+> In that variable,datatypes,functions,interface,return types. 
+> Using this TypeScript, I also created a to-do app.
+> In this app we created add, edit and delete button.
+> Validation process was done with all the buttons.

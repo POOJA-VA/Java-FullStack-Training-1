@@ -1,0 +1,7 @@
+Learned about JQuery and how the functions works.
+
+>username validation and sign in validation was done with JQuery.
+>password validation and sign in validation was done with JQuery.
+>radio button validation and sign in validation was done with JQuery.
+>dropdown validation and sign in validation was done with JQuery.
+>checkbox validation and sign in validation was done with JQuery.

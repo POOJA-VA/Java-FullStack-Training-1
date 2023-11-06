@@ -1,0 +1,11 @@
+Learned about BootStrap
+
+Created a Simple WebPage Using BootStrap 5
+
+Learned about basic JavaScript 
+
+In this topic, I learned about
+1. Functions
+2. Promise
+3. Array
+4. Map, MapReduce and Filter
