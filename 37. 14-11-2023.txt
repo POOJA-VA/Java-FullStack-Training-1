@@ -1,0 +1,34 @@
+Today we started the Full Stack Development Project and my title is Pharmacy Inventory Management System.
+In that project I completed following steps for backend
+    1. Create a new project with JPA security configuration
+    2. Add required boiler templates
+    2. Models
+         Address
+         AppUser
+         Cart
+         Category
+         Medicine
+         Order
+         OrderedMedicine
+         OrderStatus
+         Role
+    3. Controller
+         AdminCategorycontroller
+         AdminMedicinecontroller
+         AdminOrdercontroller
+         AdminUsercontroller
+         AuthController
+         CartController
+         OrderController
+         MedicineController
+         HelloController
+         UserController
+ 
+ 
+Learned Concepts:
+-----------------------------------------------------------------
+Annotations:
+    @RolesAllowed-for allowing particular user in a certain time.
+    @Column(updatable=false)
+Apirequest function
+Apiresponse function
