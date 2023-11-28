@@ -1,0 +1,13 @@
+Project: PHARMACY MANAGEMENT WEBSITE
+------------------------------------
+*Continued with the integration of back end and front end.
+        - Integrated the POST Methods in project in admin side
+            -> POST Medicines
+            -> POST Users   
+        
+            
+        - Integrated DELETE method 
+            -> DELETE Category 
+            -> DELETE Medicines
+            -> DELETE Users   
+            

@@ -1,0 +1,15 @@
+Project Title: PHARMACY MANAGEMENT WEBSITE
+
+------------------------------------------
+
+    *Completed the backend part for sprint 1 with the following 
+        - Category
+        - Order
+        - Order status
+        - User Profile 
+        - Auth (Login/Register)
+
+    *Started with the UI part
+        - Login 
+        - Register 
+        - Home

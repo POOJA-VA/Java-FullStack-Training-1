@@ -1,0 +1,66 @@
+Springboot E-Shopping
+=====================
+ 
+Tested all the API in postman
+-----------------------------
+Authentication
+~~~~~~~~~~~~~~
+    Register - http://localhost:8080/api/auth/register
+    Login - http://localhost:8080/api/auth/login
+
+Cart
+~~~~
+    Create Cart - http://localhost:8080/api/cart
+    View Cart - http://localhost:8080/api/cart/5
+    Delete Cart - http://localhost:8080/api/cart/4/2
+
+Category
+~~~~~~~~
+    Create Category- http://localhost:8080/api/category
+    Update Category - http://localhost:8080/api/admin/category
+    Delete Category - http://localhost:8080/api/admin/category
+
+Medicine
+~~~~~~~~
+    View Medicine - http://localhost:8080/api/medicine/all
+
+Orders
+~~~~~~~~
+    View Order - http://localhost:8080/api/order/2
+    Create Order - http://localhost:8080/api/order
+
+Users
+~~~~~
+    Create Users - http://localhost:8080/api/user/address
+    View Users - http://localhost:8080/api/user/1
+    Delete Users -  http://localhost:8080/api/user/address/3
+    Update Users - http://localhost:8080/api/user/address
+
+Admin
+~~~~~
+
+Admin Category:-
+~~~~~~~~~~~~~~
+    Add Category - http://localhost:8080/api/admin/category
+    View Categories - http://localhost:8080/api/admin/category/all
+    Update category - http://localhost:8080/api/admin/category
+    Delete Category - http://localhost:8080/api/admin/category/16
+
+Admin Medicine:- 
+~~~~~~~~~~~~~~~   
+    Add Medicine - http://localhost:8080/api/admin/medicine
+    View Medicine - http://localhost:8080/api/admin/medicine/all
+    Update Medicine- http://localhost:8080/api/admin/medicine
+    Delete Medicine - http://localhost:8080/api/admin/medicine/3
+
+Admin Orders:-
+~~~~~~~~~~~~
+    Add Orders - http://localhost:8080/api/admin/order/status/all
+    View Orders - http://localhost:8080/api/admin/order/status
+    View User Orders - http://localhost:8080/api/admin/order/2
+    View Status Orders - http://localhost:8080/api/admin/order/status/all
+
+Admin Users:-
+~~~~~~~~~~~~
+    View All Users - http://localhost:8080/api/admin/order/2
+

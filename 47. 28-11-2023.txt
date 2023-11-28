@@ -1,0 +1,15 @@
+Project: PHARMACY MANAGEMENT WEBSITE
+------------------------------------
+*Continued with the integration of back end and front end.
+        - Integrated the POST,PUT and DELETE methods in both admin and user side
+             
+            User side:
+            ----------- 
+            ->POST cart
+            ->DELETE cart
+            ->POST user profile
+            ->DELETE user profile 
+            ->POST Order
+
+        - Continued the UI part to do some corrections 
+        - Try to add image 

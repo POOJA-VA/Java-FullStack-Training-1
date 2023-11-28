@@ -1,0 +1,11 @@
+Project: PHARMACY MANAGEMENT WEBSITE
+------------------------------------
+*Continued with the integration of back end and front end.
+        - Integrated the GET Methods in project
+            -> GET Medicines
+            -> GET Users  
+            -> GET Categories 
+            -> GET Address
+            
+        - Integrated Post method 
+            -> POST Category 

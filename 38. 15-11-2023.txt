@@ -1,0 +1,19 @@
+Today started to complete the admin and user side controller part.
+After that I complete Servive,Dto,Request and Response.
+ 
+Postman:
+Create a collection in Postman 
+Create folders to execute endpoints in Postman
+Add folders for each controller and execute the end points.
+Then save it.
+I check all workpoints are working or not.
+
+Learned Concepts:
+-----------------------------------------------------------------
+Annotations:
+@PreAuthorize
+ 
+Task:
+-----------------------------------------------------------------
+Cross check all API End points
+Add validation
