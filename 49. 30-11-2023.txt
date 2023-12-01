@@ -1,0 +1,13 @@
+Project: PHARMACY MANAGEMENT WEBSITE
+------------------------------------
+    *Continued with the back end and front end integration.
+        - Some changes in the frontend.
+        - Try to fix the bug in functionalities.
+        - Some Changes in the Order page and Cart Page to make it prettier.
+        - Images has some bugs and it shows unsafe error have to fix it.
+
+    *Yet to complete 
+        - Navbar and sidebar enchancement.
+        - UI changes for 
+            -> Admin pages. 
+            -> User pages and styling.

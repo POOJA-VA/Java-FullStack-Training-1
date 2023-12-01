@@ -1,0 +1,17 @@
+Project: PHARMACY MANAGEMENT WEBSITE
+------------------------------------
+Continous of the Project...
+                - Do some changes in the UI. 
+                - Style the Pages. 
+                - Fix the SideBar.
+                - Style the Admin Navbar.
+
+New topics:
+    Struct
+    lazy loading
+    custom valiadtion
+
+Made styles for the UI.
+Final integration and checking for the project.
+    - Add Readme file in the github.
+    - Recording the project working model video.
